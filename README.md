@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vidyanshu Mishra
-- 👀 I’m interested in computational number nheory
-- 🌱 I’m currently learning about satisfiability solvers
+- 👀 I’m interested in computational number theory
+- 🌱 I’m currently learning about satisfiability solvers and homomorphic encryption
 - 💞️ I’m looking to collaborate on mathematical problem solving
 - 📫 You can reach me at vidyanshurpvvyv@gmail.com
 
